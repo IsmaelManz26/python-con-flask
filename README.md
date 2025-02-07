@@ -14,7 +14,7 @@ Este proyecto despliega una aplicación Flask utilizando Gunicorn y Nginx en una
 ### 1. Clonar el repositorio
 
 ```sh
-git clone <URL_DEL_REPOSITORIO>
+git clone <[https://github.com/IsmaelManz26/python-con-flask.git]>
 ```
 
 ![Clonando el repositorio](./capturas/git-clone.png)
